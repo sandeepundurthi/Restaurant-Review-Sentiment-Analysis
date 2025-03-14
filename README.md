@@ -13,7 +13,7 @@ This project performs **sentiment analysis** on Yelp restaurant reviews using **
 **Saves Trained Model for Deployment**  
 
 ## Dataset
-- The dataset consists of **Yelp restaurant reviews**.
+- The dataset consists of **Yelp restaurant reviews**(https://www.kaggle.com/datasets/omkarsabnis/yelp-reviews-dataset).
 - It contains review text and a star rating (1 to 5).
 - **Binary Sentiment Classification:**
   -  1-2 stars → **Negative (0)**
