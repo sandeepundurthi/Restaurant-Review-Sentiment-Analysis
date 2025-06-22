@@ -13,6 +13,7 @@ This project applies Natural Language Processing (NLP) and Machine Learning tech
 ---
 ## 📁 Folder Structure
 '''
+
 Restaurant-Review-Sentiment-Analysis/
 ├── data/
 │   ├── yelp.csv
@@ -23,6 +24,7 @@ Restaurant-Review-Sentiment-Analysis/
 │   └── Restaurent_review.ipynb
 ├── README.md
 ├── requirements.txt
+
 '''
 ---
 ## 🧠 Features
