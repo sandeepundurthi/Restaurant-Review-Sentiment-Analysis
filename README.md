@@ -11,7 +11,19 @@ This project applies Natural Language Processing (NLP) and Machine Learning tech
 - **Removed**: Neutral reviews (3 stars) for a clear classification boundary.
 
 ---
+## 📁 Folder Structure
+Restaurant-Review-Sentiment-Analysis/
+├── data/
+│   ├── yelp.csv
+├── models/
+│   ├── sentiment_model.pkl
+│   └── tfidf_vectorizer.pkl
+├── notebooks/
+│   └── Restaurent_review.ipynb
+├── README.md
+├── requirements.txt
 
+---
 ## 🧠 Features
 
 - Text preprocessing:
