@@ -10,23 +10,23 @@ This project performs sentiment analysis on restaurant reviews using Natural Lan
 - Clean folder structure for reproducibility
 
 ## 📁 Folder Structure
-
-restaurant-review-sentiment/
+```
+Restaurant-Review-Sentiment-Analysis/
 ├── data/                      # Raw dataset (CSV)
 ├── models/                   # Saved ML model and vectorizer
 │   └── sentiment_model.pkl
 ├── notebook/                 # Training and evaluation notebook
-│   └── sentiment_analysis.ipynb
+│   └── Restaurent_review.ipynb
 ├── app/
 │   └── gradio_app.py         # Gradio interface
 ├── requirements.txt
 └── README.md
-
+```
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/yourusername/restaurant-review-sentiment.git
-cd restaurant-review-sentiment
+git clone https://github.com/sandeepundurthi/Restaurant-Review-Sentiment-Analysis.git
+cd Restaurant-Review-Sentiment-Analysis
 pip install -r requirements.txt
 python app/gradio_app.py
 ```
